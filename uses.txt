@@ -1,0 +1,5 @@
+<iomanip>:
+1.setprecision(1-100) can delete expansion in a long or long long type , example < 1.67772e+07 3.8742e+08 ---> cout << setprecision ---> 16777216 387420489>
+2.fixed also can delete expansion in a float, example < 1.67772e+07 3.8742e+08 ---> cout << fixed ---> 16777216.000000 387420489.000000>
+3.freopen("input.txt", "r", stdin);
+gp6sedeynhzzb 
